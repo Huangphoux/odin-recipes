@@ -1,5 +1,6 @@
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
 }
 
 h1 {
@@ -7,4 +8,24 @@ h1 {
     font-size: 48px;
     color: brown;
     background-color: rgb(113, 205, 82);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(31, 41, 151);
+    color:rgb(153, 243, 180);
+    font-size: 28px;q
+}
+
+a,
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.center {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
 }
