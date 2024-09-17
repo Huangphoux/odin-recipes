@@ -1,0 +1,40 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Garamond, sans-serif;
+    font-size: 48px;
+    background-color: rgb(30, 50, 65);
+    color: rgb(141, 172, 98)
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(71, 42, 146);
+    color: rgb(217, 201, 77);
+}
+
+a,
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.center{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+li {
+    text-align: justify;
+}
+
+.separate {
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
